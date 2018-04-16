@@ -15,8 +15,7 @@ reference : www.androidauthority.com</div>
 ---
 ### 문제점
 - 기존 key protocol을 수정하지 않을 경우 공격 불가
-  - 낙준은 sejin(fake)과 채팅할 때,
-    sejin(real) 아이디로 암호화(enc)
+  - 낙준은 sejin(fake)과 채팅할 때, sejin(real) 아이디로 암호화(enc)
   - sejin(fake)은 복호화(dec) 불가로 오류 발생
 - key protocol 수정
   - 메신저 아이디로 암/복호화
@@ -24,13 +23,11 @@ reference : www.androidauthority.com</div>
 
 ---
 ### 실행방법
-- attacker는 githubA로 접속하여 채팅 리스트에서
-  공격 대상자를 확인
-- 채팅 리스트에서 공격 대상인 sejin(fake)의 키를 생성
-- 공격자용 메신저 프로그램 만들어서 Docker 실행
-- attacker는 sejin(real)이 채팅 리스트에서
-  나갈 때까지 기다림
-- sejin(fake)은 nakjun에게 피싱공격
+1. attacker는 githubA로 접속, 채팅 리스트에서 공격 대상자 확인
+2. 채팅 리스트에서 공격 대상인 sejin(fake)의 키 생성
+3. 공격자용 메신저 프로그램 만들어서 Docker 실행
+4. attacker는 sejin(real)이 채팅 리스트에서 나갈 때까지 기다림
+5. sejin(fake)은 nakjun에게 피싱공격
 
 ---
 ### DEMO
