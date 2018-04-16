@@ -8,9 +8,7 @@
 ### 공격 모델
 ![attack](images/attack.jpg)
 
-<div style="width: 60%; margin: 0px auto;">
-reference : www.androidauthority.com</div>
-</div>
+<div><font size="2em"><span style="display:table;margin:auto">Image from : www.androidauthority.com</span></font></div>
 
 ---
 ### 문제점
