@@ -30,4 +30,4 @@ reference : www.androidauthority.com</div>
 
 ---
 ### DEMO
-![Video](https://youtube.coms/embed/3HkWb2PC_z8)
+![Video](https://youtube.com/embed/3HkWb2PC_z8)
