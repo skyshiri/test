@@ -26,4 +26,4 @@
 
 ---
 ### DEMO
-![Video](https://www.youtube.com/watch?v=3HkWb2PC_z8)
+![Video](https://youtu.be/embed/3HkWb2PC_z8)
