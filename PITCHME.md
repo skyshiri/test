@@ -8,6 +8,10 @@
 ### 공격 모델
 ![attack](images/attack.jpg)
 
+<div style="width: 60%; margin: 0px auto;">
+reference : www.androidauthority.com</div>
+</div>
+
 ---
 ### 문제점
 - 기존 key protocol을 수정하지 않을 경우 공격 불가
@@ -26,4 +30,4 @@
 
 ---
 ### DEMO
-![Video](https://youtube.com/embed/3HkWb2PC_z8)
+![Video](https://youtube.coms/embed/3HkWb2PC_z8)
