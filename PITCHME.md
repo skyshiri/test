@@ -1,9 +1,11 @@
-# HER Messenger - 정세진
+## HER Messenger - 정세진
 
-### 공격 모델
+### 취약점
 - HER 메신저는 접속시 별도의 인증절차가 없음을 이용
 - 헐 메신저에서 누구나 원하는 누군가인 척 할 수 있음
 
+---
+### 공격 모델
 ![attack](images/attack.jpg)
 
 ---
@@ -16,6 +18,7 @@
 
 - key protocol 수정
   -  기존 메신저 아이디로 암/복호화 -> 아이디별 fingerprint로 암/복호화
+  - onion-Team3 원격저장소의 key 브랜치의 수정된 key protocol 활용하였음
 
 ---
 ### 실행방법
@@ -37,6 +40,9 @@
     ```
     $AutoDocker.sh
     ```
+---
+### 실행방법
+- 공격자용 Her Messenger 프로그램 만들기
   - attacker 폴더의 AutoDocker.sh 파일 수정
     ```
     docker build -t onionmessenger .  
@@ -51,12 +57,7 @@
 - Sejin(fake)는 Nakjun(victim)에게 피싱공격
 
 ---
-
 ### DEMO
-![Video](https://youtu.be/3HkWb2PC_z8)
+![Video](https://www.youtube.com/watch?v=3HkWb2PC_z8)
 
 ---
-
-### Defense
-- 메신저에 이용자 등록시 github.com의 원격 저장소에 등록된 사용자인지 공개키를 검증
-- 별도의 서버에서 이용자 키에 대한 별도의 검증 후 사용
