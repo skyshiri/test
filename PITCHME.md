@@ -6,7 +6,7 @@
 
 ---
 ### 공격 모델
-![attack](images/attack.jpg)
+![attack](images/attack.jpg){: width="300" height="400"}
 
 <div><font size="2em"><span style="display:table;margin:auto">Image from : www.androidauthority.com</span></font></div>
 
