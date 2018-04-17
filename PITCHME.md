@@ -19,13 +19,12 @@
 
 ---
 ### 실행방법
-1. attacker는 githubA로 접속할 때, 채팅 리스트에서  
+1. attacker는 githubA로 접속할 때, 채팅목록에서  
 공격 대상자 확인
 2. 채팅 리스트에서 공격 대상인 sejin(fake)의 키 생성
 3. sejin(fake)의 키가 들어있는 Docker 파일 실행
-4. attacker는 sejin(real)이 채팅 리스트에서  
-나갈 때까지 기다림
-5. sejin(fake)은 nakjun에게 피싱공격 가능
+4. sejin(real)이 채팅목록에서 나갈 때까지 기다림
+5. sejin(fake)은 nakjun에게 피싱공격
 
 ---
 ### DEMO
