@@ -13,9 +13,9 @@
 ---
 ### 문제점
 - 기존 key protocol을 수정하지 않을 경우 공격 불가
-   - 낙준은 sejin(fake)과 채팅할 때, sejin(real) 아이디로  
-  암호화(enc)
-   - sejin(fake)은 복호화(dec) 불가로 오류 발생
+   - nakjun은 sejin(fake)과 채팅할 때, sejin(real)  
+   아이디로 암호화(enc)
+   - sejin(fake)은 복호화(dec) 불가로 채팅 불가
 - key protocol 수정
    - 메신저 아이디로 암/복호화  
     -> 아이디별 fingerprint로 암/복호화
