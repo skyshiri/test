@@ -6,10 +6,7 @@
 
 ---
 ### 공격 모델
-<!--
-![attack](images/attack.jpg){: width="5%" height="7%"}
--->
-<center><img src="/images/attack.jpg" width="300" height="350"></center>
+![attack](images/attack.jpg)
 ---
 ### 문제점
 - 기존 key protocol을 수정하지 않을 경우 공격 불가
