@@ -6,7 +6,7 @@
 
 ---
 ### 공격 모델
-![attack](images/attack.jpg){: width="30" height="40"}
+![attack](images/attack.jpg){: width="50%" height="70%"}
 
 ---
 ### 문제점
